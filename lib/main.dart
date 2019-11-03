@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
                 icon: Icon(Icons.camera_alt),
                 onPressed: () {},
               ),
-              Text("Photo Ui Design,
+              Text("Photo Ui Design",
               ),
             ],
           ),
