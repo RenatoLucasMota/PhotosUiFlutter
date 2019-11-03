@@ -50,9 +50,7 @@ class _MyAppState extends State<MyApp> {
                 icon: Icon(Icons.camera_alt),
                 onPressed: () {},
               ),
-              Padding(
-                padding: const EdgeInsets.only(top: 8),
-                child: Image.asset("assets/images/logo.png", width: 100),
+              Text("Photo Ui Design,
               ),
             ],
           ),
